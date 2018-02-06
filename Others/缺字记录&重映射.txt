@@ -1,0 +1,110 @@
+U+4F60	你	祢	DOWN！
+U+5979	她	咜	DOWN！
+U+5417	吗	呎	DOWN!
+U+554A	啊	姶	DOWN！
+U+5462	呢	咾	DOWN!
+U+55EF	嗯	哘	DOWN!
+U+4E48	么	麼	DOWN！
+U+8FD8	还	還	DOWN！
+U+5427	吧	叺	DOWN！
+U+54EA	哪	哢	DOWN！
+U+5509	唉	啣	DOWN！
+U+54DF	哟	啌	DOWN！
+U+5566	啦	啀	DOWN！
+U+5582	喂	喟	DOWN！
+U+5662	噢	啝	DOWN！
+U+55DD	嗝	啻	DOWN！
+U+5594	喔	啅	DOWN！
+U+5494	咔	嗾	DOWN！
+U+5495	咕	啗	DOWN！
+U+565C	噜	唸	DOWN！
+U+5570	啰	咊	DOWN！
+U+563B	嘻	哂	DOWN！
+U+5413	吓	嚇	DOWN！
+U+5496	咖	嗹	DOWN！
+U+5561	啡	嘸	DOWN！
+U+54FC	哼	嚊	DOWN！
+U+54A6	咦	唹	DOWN！
+U+54AA	咪	喨	DOWN！
+U+55E8	嗨	嚥	DOWN！
+U+5466	呦	囁	DOWN！
+U+5435	吵
+U+5537	唷
+U+54CE	哎
+U+78D5	瞌
+U+563F	嘿	
+U+542F	启	啓	DOWN！
+U+60A8	您	嚀	DOWN！
+U+591F	够	駈	DOWN！
+U+6316	挖  窪	DOWN！
+U+8DD1	跑	鉋	DOWN！
+U+529E	办	屶	DOWN！
+U+4E60	习	習	DOWN！
+U+641E	搞	抂	DOWN！
+U+7CD5	糕	糢	DOWN！
+U+4F19	伙	夥	DOWN！
+U+61C2	懂	悁	DOWN！
+U+7238	爸	覗	DOWN！
+U+987B	须	須	DOWN！
+U+8E22	踢	跂	DOWN！
+U+5783	垃	坥	DOWN！
+U+573E	圾	垬	DOWN！
+U+5976	奶	姙	DOWN！
+U+6A71	橱	枡	DOWN！
+U+6C89	沉	汢	DOWN！
+U+94FA	铺	鋪	DOWN！
+U+560E	嘎	嗄	DOWN！
+U+672F	术	術	DOWN！
+U+62FC	拼	絣	DOWN！
+U+7840	础	礎	DOWN！
+U+626F	扯	抃	DOWN！
+U+76D4	盔	橿	DOWN！
+U+8D62  赢	贏	DOWN！
+U+538B	压	圧	DOWN！
+U+626D	扭	扞	DOWN！
+U+684C	桌	棹	DOWN！
+U+7EB8	纸	紙	DOWN！
+U+5C14	尔	爾	DOWN！
+U+95EA  闪  閃	DOWN！
+U+5899	墙	墻	DOWN！
+U+53E6	另	勗	DOWN！
+U+50BB	傻	僊	DOWN！
+U+51F3	凳	纎	DOWN！
+U+94F2  铲	鉐	DOWN！
+U+4E8F	亏	虧	DOWN！
+U+98DE  飞  飛	DOWN！
+U+78B0	碰	矼	DOWN！
+U+6E17	渗	滲	DOWN！
+U+4EFD	份	侘	DOWN！
+U+6EDA	滚	滾	DOWN！
+U+62D6	拖  扠	DOWN！
+U+6252	扒	拑	DOWN！
+U+70E4	烤	烱	DOWN！
+U+9F39	鼹	錣	DOWN！
+U+5179	兹	茲	DOWN！
+U+8D26  账	聟	DOWN！
+U+4E22	丢	畄	DOWN！
+U+51CF	减	減	DOWN！
+U+7529	甩	抔	DOWN！
+U+8D54	赔	賠	DOWN！
+U+7741	睁	瞶	DOWN！
+U+6321	挡	拊	DOWN！
+U+94C0	铀	錺	DOWN！
+U+75A4	疤	疳	DOWN！
+U+7ED1	绑	絽	DOWN！
+U+51D1	凑	湊	DOWN！
+U+8C0E	谎	諚	DOWN！
+U+8D9F	趟	辷	DOWN！
+U+6C22	氢
+U+6C27	氧
+U+78B3	碳
+U+631A	挚	摯	DOWN！
+U+59AE	妮	婬	DOWN！
+U+8116	脖
+U+6361  捡	擶	DOWN！
+U+79C6	秆	稈	DOWN！
+U+9488	针	針	DOWN！
+U+956F	镯
+U+632A	挪
+		嗾	诅	DOWN！
+		泽	澤	DOWN！
