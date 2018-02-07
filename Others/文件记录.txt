@@ -48,10 +48,11 @@ mri_3_3c
 mri_3_3d
 mri_3_3e
 nuketa
-open1_1
-open1_2
-open2
+open1_1			DOWN!
+open1_2			DOWN!
+open2			DOWN!
 tute	教程图片
+中文版没有tute02a
 waku	UI图片，部分有文字
 yam_1_1
 yam_2_1
