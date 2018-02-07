@@ -28,11 +28,10 @@ U+54A6	咦	唹	DOWN！
 U+54AA	咪	喨	DOWN！
 U+55E8	嗨	嚥	DOWN！
 U+5466	呦	囁	DOWN！
-U+5435	吵
-U+5537	唷
-U+54CE	哎
-U+78D5	瞌
-U+563F	嘿	
+U+5435	吵	囃	DOWN！
+U+5537	唷	嚠	DOWN！
+U+54CE	哎	嚔	DOWN！
+U+563F	嘿	囀	DOWN！
 U+542F	启	啓	DOWN！
 U+60A8	您	嚀	DOWN！
 U+591F	够	駈	DOWN！
@@ -95,16 +94,18 @@ U+7ED1	绑	絽	DOWN！
 U+51D1	凑	湊	DOWN！
 U+8C0E	谎	諚	DOWN！
 U+8D9F	趟	辷	DOWN！
-U+6C22	氢
-U+6C27	氧
-U+78B3	碳
+U+6C22	氢	枦	DOWN！
+U+6C27	氧	氣	DOWN！
+U+78B3	碳	碪	DOWN！
 U+631A	挚	摯	DOWN！
 U+59AE	妮	婬	DOWN！
-U+8116	脖
+U+8116	脖	肭	DOWN！
 U+6361  捡	擶	DOWN！
 U+79C6	秆	稈	DOWN！
 U+9488	针	針	DOWN！
-U+956F	镯
-U+632A	挪
+U+956F	镯	鐶	DOWN！
+U+632A	挪	挧	DOWN！
+U+78D5	瞌	盻	DOWN！
+U+8DF7  跷	蹐	DOWN！	
 		嗾	诅	DOWN！
 		泽	澤	DOWN！
