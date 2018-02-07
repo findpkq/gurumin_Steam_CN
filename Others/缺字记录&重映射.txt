@@ -107,5 +107,5 @@ U+956F	镯	鐶	DOWN！
 U+632A	挪	挧	DOWN！
 U+78D5	瞌	盻	DOWN！
 U+8DF7  跷	蹐	DOWN！	
-		嗾	诅	DOWN！
+		诅	嚆	DOWN！
 		泽	澤	DOWN！
