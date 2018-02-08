@@ -1,17 +1,17 @@
-dkt_1_1.txt								DOWN!
+dkt_1_1.txt								DOWN!	//鼹鼠
 dkt_1_2.txt								DOWN!
 dkt_1_3.txt								DOWN!
 dkt_2_1.txt								DOWN!
 dkt_3_1.txt								DOWN!
 dkt_3_2.txt								DOWN!
 dkt_3_3.txt								DOWN!
-dparts	教程图片						DOWN!
-ep_1									DOWN!
+dparts									DOWN!	//教程图片
+ep_1									DOWN!	//莫托洛回忆相关
 ep_2									DOWN!
 ep_3a									DOWN!
 ep_3b									DOWN!
 其他ep无文本							DOWN!
-fukida *6 提示框UI图片，带p字样的有文字				DOWN!
+fukida *6 提示框UI图片，带p字样的有文字	DOWN!
 gf_1
 gf_2a
 gf_3a
@@ -47,13 +47,13 @@ mri_3_3b
 mri_3_3c
 mri_3_3d
 mri_3_3e
-nuketa
-open1_1								DOWN!
-open1_2								DOWN!
+nuketa								DOWN!	//拔武器
+open1_1								DOWN!	//爷爷
+open1_2								DOWN!	//开场OP前后
 open2								DOWN!
-tute	教程图片					DOWN!
+tute								DOWN!	//教程图片
 中文版没有tute02a
-waku	UI图片，部分有文字			DOWN!
+waku								DOWN!	//UI图片，部分有文字
 yam_1_1
 yam_2_1
 yam_3_1
