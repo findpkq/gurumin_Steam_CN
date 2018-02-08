@@ -6,10 +6,10 @@ dkt_3_1.txt								DOWN!
 dkt_3_2.txt								DOWN!
 dkt_3_3.txt								DOWN!
 dparts	教程图片						DOWN!
-ep_1
-ep_2
-ep_3a
-ep_3b
+ep_1									DOWN!
+ep_2									DOWN!
+ep_3a									DOWN!
+ep_3b									DOWN!
 其他ep无文本							DOWN!
 fukida *6 提示框UI图片，带p字样的有文字				DOWN!
 gf_1
