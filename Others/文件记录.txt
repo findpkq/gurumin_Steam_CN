@@ -5,13 +5,13 @@ dkt_2_1.txt
 dkt_3_1.txt
 dkt_3_2.txt
 dkt_3_3.txt
-dparts	教程图片
+dparts	教程图片					DOWN!
 ep_1
 ep_2
 ep_3a
 ep_3b
 其他ep无文本
-fukida *6 提示框UI图片，带p字样的有文字
+fukida *6 提示框UI图片，带p字样的有文字				DOWN!
 gf_1
 gf_2a
 gf_3a
@@ -48,12 +48,12 @@ mri_3_3c
 mri_3_3d
 mri_3_3e
 nuketa
-open1_1			DOWN!
-open1_2			DOWN!
-open2			DOWN!
-tute	教程图片
+open1_1								DOWN!
+open1_2								DOWN!
+open2								DOWN!
+tute	教程图片					DOWN!
 中文版没有tute02a
-waku	UI图片，部分有文字
+waku	UI图片，部分有文字			DOWN!
 yam_1_1
 yam_2_1
 yam_3_1
