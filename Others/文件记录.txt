@@ -1,16 +1,16 @@
-dkt_1_1.txt
-dkt_1_2.txt
-dkt_1_3.txt
-dkt_2_1.txt
-dkt_3_1.txt
-dkt_3_2.txt
-dkt_3_3.txt
-dparts	教程图片					DOWN!
+dkt_1_1.txt								DOWN!
+dkt_1_2.txt								DOWN!
+dkt_1_3.txt								DOWN!
+dkt_2_1.txt								DOWN!
+dkt_3_1.txt								DOWN!
+dkt_3_2.txt								DOWN!
+dkt_3_3.txt								DOWN!
+dparts	教程图片						DOWN!
 ep_1
 ep_2
 ep_3a
 ep_3b
-其他ep无文本
+其他ep无文本							DOWN!
 fukida *6 提示框UI图片，带p字样的有文字				DOWN!
 gf_1
 gf_2a
