@@ -12,11 +12,11 @@ ep_3a									DOWN!
 ep_3b									DOWN!
 其他ep无文本							DOWN!
 fukida *6 提示框UI图片，带p字样的有文字	DOWN!
-gf_1
-gf_2a
-gf_3a
-gf_3b
-gf_3c
+gf_1									DOWN!
+gf_2a									DOWN!
+gf_3a									DOWN!
+gf_3b									DOWN!
+gf_3c									DOWN!
 home_1
 home_2
 home_3
