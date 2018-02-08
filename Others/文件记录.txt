@@ -54,8 +54,8 @@ open2								DOWN!
 tute								DOWN!	//教程图片
 中文版没有tute02a
 waku								DOWN!	//UI图片，部分有文字
-yam_1_1
-yam_2_1
-yam_3_1
-yam_3_2
-yam_3_3
+yam_1_1								DOWN!	//伪 帕琳
+yam_2_1								DOWN!
+yam_3_1								DOWN!
+yam_3_2										脚本50、51行添加
+yam_3_3								DOWN!
