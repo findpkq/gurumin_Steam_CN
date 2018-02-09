@@ -35,7 +35,8 @@ kdo_2_1
 kdo_3_1
 kdo_3_2
 kdo_3_3
-kdo_3_4
+kdo_3_4a
+kdo_3_4b
 kdo_3_5a
 kdo_3_5d
 mri_1_1

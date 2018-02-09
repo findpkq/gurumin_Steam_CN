@@ -111,6 +111,9 @@ U+800D	耍	旡	DOWN！
 U+5443	呃	嚮	DOWN！
 U+88E4	裤	衵	DOWN！
 U+5C82	岂	豈	DOWN！
-U+5431  吱	囈
+U+5431  吱	囈	DOWN！
+U+55B5	喵	囎	DOWN！
+U+77A7	瞧	眄	DOWN！
+U+00B7	·	●	DOWN！
 		诅	嚆	DOWN！
 		泽	澤	DOWN！
