@@ -60,3 +60,6 @@ yam_2_1								DOWN!
 yam_3_1								DOWN!
 yam_3_2								DOWN!	//脚本50、51行添加
 yam_3_3								DOWN!
+
+mmv格式 
+除去gameover goal logo part1-62	tumetogi
