@@ -17063,7 +17063,7 @@ int main()
 //		else
 //		{
 			//ファン
-			Message(3,"Prices　are　back　to　normal!","Can　I　help　you?","","");
+			Message(3,"価格已経恢復了，","想買些什麼？","","");
 //		}
 	}
 	if (ch[2330] && !ch[3200])
@@ -59752,14 +59752,14 @@ int main()
 		else
 		{
 			// 召喚中
-			KaguTest2(20002,0,"You　can't　use　that　now.");
+			KaguTest2(20002,0,"祢現在不能使用它 .");
 		}
 	}
 	if (!ch[420] || (ch[421] == 308 && ch[2497]) )
 	{
 		// 置けなかった
 //		GetItem(55);
-		Mes("You　can't　use　this　here.");
+		Mes("祢不能在這使用它.");
 	}
 	Wait(30);
 }
