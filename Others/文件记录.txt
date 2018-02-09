@@ -18,36 +18,36 @@ gf_3a									DOWN!
 gf_3b									DOWN!
 gf_3c									DOWN!
 home_1									DOWN!	//幽灵之家 初见王子
-home_2
-home_3
-houdai0
-houdai2
-houdai3
-isk_1_1
-isk_1_2
-isk_1_3
-isk_2_1
-isk_3_1
-isk_3_2
-isk_3_3
-kdo_1_1
-kdo_2_1
-kdo_3_1
-kdo_3_2
-kdo_3_3
-kdo_3_4a
-kdo_3_4b
-kdo_3_5a
-kdo_3_5d
-mri_1_1
-mri_2_1
-mri_3_1
-mri_3_2
-mri_3_3a
-mri_3_3b
-mri_3_3c
-mri_3_3d
-mri_3_3e
+home_2									DOWN!
+home_3									DOWN!
+houdai0									DOWN!
+houdai2									DOWN!
+houdai3									DOWN!
+isk_1_1									DOWN!
+isk_1_2									DOWN!
+isk_1_3									DOWN!
+isk_2_1									DOWN!
+isk_3_1									DOWN!
+isk_3_2									DOWN!
+isk_3_3									DOWN!
+kdo_1_1									DOWN!
+kdo_2_1									DOWN!
+kdo_3_1									DOWN!
+kdo_3_2									DOWN!
+kdo_3_3									DOWN!
+kdo_3_4a								DOWN!
+kdo_3_4b								DOWN!
+kdo_3_5a								DOWN!
+kdo_3_5d								DOWN!
+mri_1_1									DOWN!
+mri_2_1									DOWN!
+mri_3_1									DOWN!
+mri_3_2									DOWN!
+mri_3_3a								DOWN!
+mri_3_3b								DOWN!
+mri_3_3c								DOWN!
+mri_3_3d								DOWN!
+mri_3_3e								DOWN!
 nuketa								DOWN!	//拔武器
 open1_1								DOWN!	//爷爷
 open1_2								DOWN!	//开场OP前后
