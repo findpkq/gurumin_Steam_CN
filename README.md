@@ -9,6 +9,11 @@
 * 实际汉化所需替换文件在DATA目录下
 ```
 
+## 使用方法
+```
+将DATA文件夹下内容复制到游戏目录，覆盖原版文件
+运行新增加的exe文件
+```
 
 ## 当前已完成进度：
 
@@ -27,8 +32,8 @@
 
 ## TODO LIST:
 
--主程序内文本移植（已完成部分）
+![Progress](http://progressed.io/bar/90)主程序内文本移植（已完成部分）
 
--启动界面汉化
+![Progress](http://progressed.io/bar/0)启动界面汉化
 
 -AND MORE
