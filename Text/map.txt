@@ -67699,7 +67699,7 @@ int main()
 #Script:01347
 int main()
 {
-	Message(0,"如果要玩捉米蔵","這可是好地方……","","");
+	Message(0,"如果要玩捉迷蔵","這可是好地方……","","");
 }
 #EndScript
 
