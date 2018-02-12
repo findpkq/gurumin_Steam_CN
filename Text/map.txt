@@ -945,48 +945,48 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #StageName
-0000 Potato@Ruins@Meter@Corridor potato_02.mmv
-0001 Potato@Ruins@Centimeter@Hall potato_03.mmv
-0002 Radish@Woods@Cheery@Forest@Path forest_01.mmv
-0003 Radish@Woods@Forest@Ballroom forest_03.mmv
-0004 Spinach@Caverns@Bracken@Hollow supyna_01.mmv
-0005 Spinach@Caverns@Ancient@Lagoon supyna_03.mmv
-0006 Pimento@Mountain@Fairies'@Nest mountain_01.mmv
-0007 Pimento@Mountain@Star@Ridge mountain_03.mmv
-0008 Eggplant@Caverns@Crystal@Way Eggplant_01.mmv
-0009 Eggplant@Caverns@Sapphire@Line Eggplant_02.mmv
-0010 Great@Fang greatfung.mmv
-0011 Radish@Woods@Eerie@Way forest_02.mmv
-0012 Pimento@Mountain@Sky@Steps mountain_02.mmv
-0013 Spinach@Caverns@Forgotten@Den supyna_02.mmv
-0014 HHH potato_01.mmv
-0015 Monster@Village home.mmv
-0016 Potato@Ruins@Mile@Palace potato_04.mmv
-0017 Radish@Woods@Serpent@Road forest_04.mmv
-0018 Radish@Woods@Bats'@Hideaway forest_05.mmv
-0019 Spinach@Caverns@Tumultuous@Cave supyna_04.mmv
-0020 Spinach@Caverns@Shadow@Grotto supyna_05.mmv
-0021 Pimento@Mountain@Dragon's@Back mountain_04.mmv
-0022 Pimento@Mountain@Heaven's@Hill mountain_05.mmv
-0023 Eggplant@Caverns@Ruby@Cave Eggplant_04.mmv
-0024 Eggplant@Caverns@Amethyst@Road Eggplant_05.mmv
-0025 Oblivion@Abyss Abyss.mmv
-0026 Potato@Ruins@Nanometer@Shrine potato_01.mmv
-0027 Potato@Ruins@Kilometer@Path potato_05.mmv
-0028 Mole@Dojo pground.mmv
-0029 Doc's@Lab Docdock.mmv
-0030 Pecky's@Mansion mansion.mmv
-0031 Motoro's@Gym gym.mmv
-0032 Eggplant@Caverns@Topaz@Path Eggplant_03.mmv
-0033 Asparagus@Lake lake.mmv
-0034 Radish@Woods@Fountain@Clearing fountain.mmv
-0035 Pimento@Park park.mmv
+0000 ˆê•Ä‘–˜L potato_02.mmv
+0001 —Ğ•Ä‘å’¡ potato_03.mmv
+0002 ”Mé§“IX—Ñ¬“¹ forest_01.mmv
+0003 X—Ñ’µ•‘ê forest_03.mmv
+0004 àœÎ“´ŒA supyna_01.mmv
+0005 –œ”NŠâÎ”VŒÎ supyna_03.mmv
+0006 —d¸‘ƒŒŠ mountain_01.mmv
+0007 R”w”V¯ mountain_03.mmv
+0008 …»”V˜H Eggplant_01.mmv
+0009 —••óÎŠEŒÀ Eggplant_02.mmv
+0010 ‹Œ^îxîy greatfung.mmv
+0011 Œt™”V˜H forest_02.mmv
+0012 ’Ê“VŠK’ò mountain_02.mmv
+0013 –Y‹pÎ“´ŒŠ supyna_02.mmv
+0014 HHH potato_01.mmvU+8611
+0015 —H—ì”V‰Æ home.mmvU+5BAB
+0016 ‰p—¢‹{“a potato_04.mmv
+0017 ‘åÖˆâœP”V˜H forest_04.mmv
+0018 åå•ç]‘ “I‰Æ forest_05.mmv
+0019 Œ–šŠâŒA supyna_04.mmv
+0020 ˆÃ•‹ó“´ supyna_05.mmv
+0021 ‹—³”wÒ mountain_04.mmv
+0022 “V“°’n–R mountain_05.mmv
+0023 g•óÎ•æ’n Eggplant_04.mmv
+0024 ‡…»‘å“¹ Eggplant_05.mmv
+0025 –Y‹p[Ÿ» Abyss.mmv
+0026 ”[•Ä¹“a potato_01.mmv
+0027 çŸ|’Ê“¹ potato_05.mmv
+0028 ”œŒÃ“¹ê pground.mmv
+0029 “¿ŒÉáù“ª Docdock.mmv
+0030 ŠLŒÉŒö‹õ mansion.mmv
+0031 ”œ‘ï—Œ‘Ìˆçê gym.mmv
+0032 —³”V˜H Eggplant_03.mmv
+0033 ˆ¢zŠœfŒÎ lake.mmv
+0034 fœNz•¬ò›öê fountain.mmv
+0035 •É™Ö‘ÉŒö‰€ park.mmv
 
-0055 Potato@Ruins potato.mmv			// Potato@Ruins
-0056 Radish@Woods forest.mmv		// Radish@Woods
-0057 Spinach@Caverns spiniti.mmv			// Spinach@Caverns
-0058 Pimento@Mountain mountain.mmv	// ‚l‚”Dƒsƒƒ“ƒg
-0059 Eggplant@Caverns egg.mmv			// Eggplant@Caverns
+0055 ”g“¿“Áˆâç‘ potato.mmv			// Potato@Ruins
+0056 fäÚzX—Ñ forest.mmv		// Radish@Woods
+0057 z”ä”[“´ŒA spiniti.mmv			// Spinach@Caverns
+0058 •É™Ö‘ÉRãõ mountain.mmv	// ‚l‚”Dƒsƒƒ“ƒg
+0059 ˆŸŠi•‘å‹ó“´ egg.mmv			// Eggplant@Caverns
 #EndStageName
 
 ///////////////////////////////////////////////////////////////////////
@@ -32186,7 +32186,7 @@ int main()
 				//ƒpƒŠƒ“
 				Message(0,"’Nà—v–ñ‰ïˆ¦B","ª–{–v—L“š‰švB","","");
 				//ƒVƒŠƒ“ƒ_[
-				Message(15,"•s—pŠ´“ŠQãµšvB","“ßA“™‰ï™XŒ©íuB","","");
+				Message(15,"•s—pŠ´“ŠQãµšvB","“ßA“™‰ï™XŒ©š]B","","");
 				Message(15,"ˆ¦CŠÒ—Lès“ª“I—ëŒ","—v‹ŠÅŠÅ™æH","","");
 			}
 			else
@@ -33027,7 +33027,7 @@ int main()
 		Message(0,"ŠÒ—L‘´—]œƒ—l“I§”vH","","","");
 		//ƒnƒCƒpƒ{ƒŠƒbƒN
 		Message(20,"‘z’m“¹™æH","İ”‡é’Á“I–^ˆ","‘ ’…ˆê–‡‰ä’¿‘ “I§”vB","");
-		Message(20,"Q“›€B","AQ““šˆÄíuB","","");
+		Message(20,"Q“›€B","AQ““šˆÄš]B","","");
 		//ƒpƒŠƒ“
 		Message(0,"‰äœš—¹CŒ»İA‹QI","","","");
 		ch[2007] = 1;
@@ -56659,7 +56659,7 @@ int main()
 				//ƒyƒP
 				Message(4,"™ûc‰äŠu—¹D‹v–v—L","˜¸S’ê—¢Îo—ˆˆ¦B","","");
 				//ƒpƒŠƒ“
-				Message(0,"‰äæÕíuI","","","");
+				Message(0,"‰äæÕš]I","","","");
 			}
 			//ƒyƒP
 			Message(4,"‰ä—A—¹H","—L“_•s•šCB","","");
@@ -65078,7 +65078,7 @@ int main()
 			//ƒ|ƒ|ƒ“
 			Message(56,"™ß‹N—ˆD‘œœk—LïB","","","");
 			//ƒpƒŠƒ“
-			Message(0,"A”‡—l™r’èíuI","‰õl‰õŒêB","","");
+			Message(0,"A”‡—l™r’èš]I","‰õl‰õŒêB","","");
 			Message(0,"“ß‰äŒ»İA”c","“`à’†“IØ‹‹”IB","–v“I•Šíœk‰Â—÷“IB","");
 			//ƒ|ƒ|ƒ“
 			Message(56,"”I—p•s’…’SSB","","","");
@@ -69052,7 +69052,7 @@ int main()
 		Message(0,"šEcc","","","");
 		Message(0,"i—ŒÁ•s‰ÂˆÈ—pès“ª”jš­cj","","","");
 		//ƒsƒm
-		Message(18,"•É‘øŠÒ—L“_–C","—væ‘–íuB","","");
+		Message(18,"•É‘øŠÒ—L“_–C","—væ‘–š]B","","");
 		//ƒpƒŠƒ“
 		Message(0,"šEC˜Hã¬SI","","","");
 	

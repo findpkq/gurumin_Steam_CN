@@ -18,7 +18,7 @@ U+5594	喔	啅	DOWN！
 U+5494	咔	嗾	DOWN！
 U+5495	咕	啗	DOWN！
 U+565C	噜	唸	DOWN！
-U+5570	啰	咊	DOWN！
+U+5570	啰	咊	改为 咯
 U+563B	嘻	哂	DOWN！
 U+5413	吓	嚇	DOWN！
 U+5496	咖	嗹	DOWN！
@@ -115,5 +115,8 @@ U+5431  吱	囈	DOWN！
 U+55B5	喵	囎	DOWN！
 U+77A7	瞧	眄	DOWN！
 U+00B7	·	●	DOWN！
+U+5BAB	宫	宮	DOWN！
+U+8611	蘑	荿	DOWN！
+U+8346  荆  荊	DOWN！
 		诅	嚆	DOWN！
 		泽	澤	DOWN！
