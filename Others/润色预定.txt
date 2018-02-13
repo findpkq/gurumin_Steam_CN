@@ -4,7 +4,7 @@ map.itm
 
 
 主程序 
-装备升级后的提示 effects 
+装备升级后的提示 effects	DOWN！
 
 字幕
 
