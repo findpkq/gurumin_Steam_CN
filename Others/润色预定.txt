@@ -10,3 +10,7 @@ map.itm
 
 dkt部分
 鼹鼠兄弟名字		DOWN！
+
+
+yam_3_2
+steam版省略了语音7，加上后导致重音
