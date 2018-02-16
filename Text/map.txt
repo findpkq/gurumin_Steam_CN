@@ -64526,7 +64526,6 @@ int main()
 // ­—ƒ}ƒ“ƒKg—p
 #Script:01298
 int main()
-int main()
 {
 	KaguTest(10006,0);//”­Œ¾‰Šú‰»
 	
