@@ -118,5 +118,4 @@ U+00B7	·	●	DOWN！
 U+5BAB	宫	宮	DOWN！
 U+8611	蘑	荿	DOWN！
 U+8346  荆  荊	DOWN！
-		诅	嚆	DOWN！
 		泽	澤	DOWN！
