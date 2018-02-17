@@ -40,7 +40,7 @@
 
 ![Progress](http://progressed.io/bar/98)主程序内文本移植（基本完成）
 
-![Progress](http://progressed.io/bar/50)主程序文字显示的细节修正（如间距、滚动显示等）
+![Progress](http://progressed.io/bar/75)主程序文字显示的细节修正（如间距、滚动显示等）
 
 ![Progress](http://progressed.io/bar/15)对严重失当的文本进行润色
 
