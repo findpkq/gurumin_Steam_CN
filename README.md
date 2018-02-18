@@ -46,5 +46,5 @@
 
 ![Progress](http://progressed.io/bar/0)多周目要素的文本测试
 
-![Progress](http://progressed.io/bar/0)新增教程图片的汉化
+![Progress](http://progressed.io/bar/100)新增教程图片的汉化
 -AND MORE
