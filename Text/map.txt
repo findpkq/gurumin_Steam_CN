@@ -38617,7 +38617,7 @@ int main()
 		Message(0,"u•Ç†‘S•”ûWD—¹B","¿‰ñ“šŒû—ßBvH","","");
 		string txt;
 		txt = Type(600);
-		if (strcmp(txt,"‚‚‚‚“‚“") == 0 || strcmp(txt,"‚a‚‚“‚“") == 0 || strcmp(txt,"‚a‚n‚r‚r") == 0 || strcmp(txt,"ãR–½") == 0 || strcmp(txt,"‚‚‚‚“‚“‚’‚•‚“‚ˆ") == 0 || strcmp(txt,"‚Š‚‚™") == 0)
+		if (strcmp(txt,"‚‚‚‚“‚“") == 0 || strcmp(txt,"‚a‚‚“‚“") == 0 || strcmp(txt,"‚a‚n‚r‚r") == 0 || strcmp(txt,"ãR–½") == 0 || strcmp(txt,"‚‚‚‚“‚“‚’‚•‚“‚ˆ") == 0 || strcmp(txt,"‚Š‚‚™") == 0 || strcmp(txt,"Legendary") == 0)
 		{
 			// ³‰ğ
 			TekiStop(1);
@@ -64079,16 +64079,16 @@ int main()
 	switch( rand() % 3)
 	{
 	case 0:
-		order ="‚a‚‰‚‚‡‚p‚‰‚k‚‰‚";
-		answer ="•XŸ½—Ò";
+		order = "IceCream";
+		answer = "IceCream";
 		break;
 	case 1:
-		order ="‚j‚…‚Œ‚…‚a‚‰‚‚‡";
-		answer ="‰ÂŠy–İ";
+		order = "Crepe";
+		answer = "Crepe";
 		break;
 	case 2:
-		order ="‚j‚‚e‚…‚‰";
-		answer ="šwš~";
+		order = "Coffee";
+		answer = "Coffee";
 		break;
 	}
 	Message(13,"u"+order+"v","‹h”‡˜¢™Ûcc","","");
@@ -64167,16 +64167,16 @@ int main()
 	switch( rand() % 3)
 	{
 	case 0:
-		order ="‚c‚‚‚f‚‚";
-		answer ="’`âõ";
+		order = "Cake";
+		answer = "Cake";
 		break;
 	case 1:
-		order ="‚j‚…‚Œ‚…‚a‚‰‚‚‡";
-		answer ="‰ÂŠy–İ";
+		order = "Crepe";
+		answer = "Crepe";
 		break;
 	case 2:
-		order ="‚j‚…‚j‚…";
-		answer ="‰Â‰Â";
+		order = "Cocoa";
+		answer = "Cocoa";
 		break;
 	}
 	Message(15,"u"+order+"v","‰ä—vˆê˜¢™Û","","");
@@ -64259,16 +64259,16 @@ int main()
 	switch( rand() % 3)
 	{
 	case 0:
-		order ="‚c‚‚‚f‚‚";
-		answer ="’`âõ";
+		order = "Shortcake";
+		answer = "Shortcake";
 		break;
 	case 1:
-		order ="‚a‚…‚‰‚l‚‰‚‚";
-		answer ="”t–Ê";
+		order = "Ramen";
+		answer = "Ramen";
 		break;
 	case 2:
-		order ="‚c‚‰‚‚‚w‚‰‚";
-		answer ="“_S";
+		order = "ChocoCake";
+		answer = "ChocoCake";
 		break;
 	}
 	Message(16,"u"+order+"v","‰ä—v”‡˜¢I","","");
@@ -64355,16 +64355,16 @@ int main()
 	switch( rand() % 3)
 	{
 	case 0:
-		order ="‚c‚‰‚‚‚w‚‰‚";
-		answer ="“_S";
+		order = "ChocoCake";
+		answer = "ChocoCake";
 		break;
 	case 1:
-		order ="‚o‚‰‚‚‡‚f‚•‚‚o‚‚‰";
-		answer ="ä™‰Ê”h";
+		order = "ApplePie";
+		answer = "ApplePie";
 		break;
 	case 2:
-		order ="‚j‚‚‚s‚‰‚‚‚r‚ˆ‚•";
-		answer ="àw“[’";
+		order = "Potato";
+		answer = "Potato";
 		break;
 	}
 	Message(20,"‘z‹hu"+order+"vˆ¦I","","","");
