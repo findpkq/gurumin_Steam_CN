@@ -31654,7 +31654,7 @@ int main()
 			Mes("得到『強化油』。");
 			break;
 		case 22:
-			Mes("得到『耐力油』。");
+			Mes("得到『耐久油』。");
 			break;
 		case 52:
 			Mes("得到『法老』。");
@@ -53672,7 +53672,7 @@ int main()
 		if (!ch[507])
 		{
 			kagu = 16;
-			iname ="得到了『命之珠』。";
+			iname ="得到了『生命之珠』。";
 		}
 		break;
 	case 505: // モスビー
@@ -53680,7 +53680,7 @@ int main()
 		if (!ch[1542])
 		{
 			kagu = 16;
-			iname ="得到了『命之珠』。";
+			iname ="得到了『生命之珠』。";
 		}
 		break;
 	case 206: // ラッシー
@@ -53688,7 +53688,7 @@ int main()
 		if (!ch[1505])
 		{
 			kagu = 16;
-			iname ="得到了『命之珠』。";
+			iname ="得到了『生命之珠』。";
 		}
 		break;
 	case 606:
@@ -53697,7 +53697,7 @@ int main()
 		{
 //			GetItem(49);
 			kagu = 16;
-			iname ="得到了『命之珠』。";
+			iname ="得到了『生命之珠』。";
 		}
 		break;
 	case 306: // ロッキー
@@ -53705,7 +53705,7 @@ int main()
 		if (!ch[1571])
 		{
 			kagu = 16;
-			iname ="得到了『命之珠』。";
+			iname ="得到了『生命之珠』。";
 		}
 		break;
 	}
