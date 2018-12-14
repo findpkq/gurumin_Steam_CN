@@ -16785,7 +16785,7 @@ int main()
 		//ƒtƒ@ƒ“
 		Message(3,"^“I›õHŽÓŽÓB","D™ÛC”‡‹‹”IB","","");
 		//ƒVƒXƒeƒ€
-		Mes("wIŽ—Í›K–û’`âõxŠl“¾B");
+		Mes("“¾“ž—¹wIŽ—Í›K–û’`âõxB");
 		KaguTest(20022,30);
 		KaguTest(20002,27);
 		GetItem(30);
@@ -27897,7 +27897,7 @@ int main()
 				//ƒfƒBƒXƒN
 				Message(5,"ŽÓŽÓI","DC”‡A‹‹”IB","","");
 				//ƒVƒXƒeƒ€
-				Mes("Šl“¾w—ù‹àp”V‘xB");
+				Mes("“¾“ž—¹w—ù‹àp”V‘xB");
 				KaguTest(20022,25);
 				KaguTest(20002,18);
 				GetItem(25);
@@ -27972,7 +27972,7 @@ int main()
 				//ƒfƒBƒXƒN
 				Message(5,"^“I™æH","“ß”‡±CA”q‘ï”I—¹B","","");
 				//ƒVƒXƒeƒ€
-				Mes("Šl“¾wé“`—p›öŽ†xB");
+				Mes("“¾“ž—¹wé“`—p›öŽ†xB");
 				KaguTest(20022,8);
 				Wait(60);
 				GetItem(8);
@@ -28254,7 +28254,7 @@ int main()
 				Message(5,"¡“V“ÁˆÓ«”‡VŽY•iC","–{“XŒ´‘nŒì–Ú‹¾‘¡‘—‹‹”II","","");
 				KaguTest(20022,41);
 				GetItem(41);
-				Mes("Šl“¾wŒì–Ú‹¾xB");
+				Mes("“¾“ž—¹wŒì–Ú‹¾xB");
 				Wait(70);
 				Message(0,"Dˆ¦I","”I^‘å•ûB","","");
 				Message(5,"‚Q‚OŽŸ•ªŠú•tŠ¼C","—˜‘§A‰ä˜ì“X‘Ö”I•‰’SC–ˆŒŽ‚Q‚O‚OŠL‘øI","","");
@@ -33699,7 +33699,7 @@ int main()
 					// ‹â‚ÌíPÍ‚­‚ê‚é
 					Message(20,"‹‹”I”‡˜¢ìˆ×ŽÓ—çB","","","");
 					GetItem(88);
-					Mes("“¾“žw‹âŒMÍx‚½B");
+					Mes("“¾“žw‹âŒMÍxB");
 					KaguTest(20022,88);
 					Wait(60);
 				}
@@ -37573,7 +37573,7 @@ int main()
 		KaguTest(30019,0);
 		KaguTest2(30011,0,"@O_073");
 
-		Mes("Šl“¾w’jl“I–XŽqxB");
+		Mes("“¾“ž—¹w’jl“I–XŽqxB");
 		KaguTest(20022,12);
 		GetItem(12);
 		Wait(60);
@@ -38357,7 +38357,7 @@ int main()
 //	
 //	if (ch[50] == 1)
 //	{
-//		Mes("Šl“¾wŠ›ŽqxB");
+//		Mes("“¾“ž—¹wŠ›ŽqxB");
 //		GetItem(70);
 //		ch[1757] = 1;
 //		SE(899);
@@ -43939,7 +43939,7 @@ int main()
 	KaguTest2(30025,0,"@ksk05_121");
 	KaguTest(20068,3);
 	GetItem(3);
-	Mes("Šl“¾w‰Î”V•”ŒxB");
+	Mes("“¾“ž—¹w‰Î”V•”ŒxB");
 	SE(956);
 //	Soubi(3);
 	Wait(60);
@@ -44240,7 +44240,7 @@ int main()
 	KaguTest2(30025,0,"@ito");
 	KaguTest(20068,14);
 	GetItem(14);
-	Mes("Šl“¾u—‹”V•”Œv");
+	Mes("“¾“ž—¹w—‹”V•”Œx");
 	SE(956);
 	Wait(40);
 	ch[2150]=1;
@@ -44671,7 +44671,7 @@ int main()
 
 	Wait(40);
 	
-	Mes("Šl“¾u‹à§”vvB");
+	Mes("“¾“ž—¹w‹à§”vxB");
 	KaguTest(20022,79);
 //	GetItem(79);
 
@@ -45819,7 +45819,7 @@ int main()
 	KaguTest2(30025,0,"@magicpot");
 	KaguTest(20068,15);
 	GetItem(15);
-	Mes("Šl“¾u•X”V•”Œv");
+	Mes("“¾“ž—¹w•X”V•”Œx");
 	SE(956);
 	Wait(40);
 	ch[2112]=1;
@@ -46090,7 +46090,7 @@ int main()
 	KaguTest(30011,0);
 	KaguTest(20068,27);
 	GetItem(27);
-	Mes("Šl“¾w“y“I•”Œx");
+	Mes("“¾“ž—¹w“y”V•”Œx");
 	SE(956);
 	Wait(40);
 	ch[2114]=1;
@@ -46689,7 +46689,7 @@ int main()
 			//ƒpƒŠƒ“
 			Message(0,"šEC”‡¥‰ñ—ç™æH","”I“I—çß","ŠÒ^•söB","");
 			//ƒVƒXƒeƒ€
-			Mes("Šl“¾w‹à•¼xB");
+			Mes("“¾“ž—¹w‹à•¼xB");
 			KaguTest(20022,32);
 			KaguTest(20002,31);
 			GetItem(32);
@@ -49716,7 +49716,7 @@ int main()
 	KaguTest(30011,0);
 	KaguTest(20068,25);
 	GetItem(25);
-	Mes("Šl“¾u”š”M”V•”ŒvB");
+	Mes("“¾“ž—¹w”š”M”V•”ŒxB");
 	SE(956);
 	Wait(40);
 	ch[2188]=1;
@@ -51163,7 +51163,7 @@ int main()
 
 	Wait(40);
 	
-	Mes("Šl“¾u‹â§”vv");
+	Mes("“¾“ž—¹w‹â§”vx");
 	KaguTest(20022,76);
 //	GetItem(76);
 
@@ -51204,7 +51204,7 @@ int main()
 	
 //	Wait(40);
 	
-	Mes("Šl“¾u“º§”vv");
+	Mes("“¾“ž—¹w“º§”vx");
 	KaguTest(20022,77);
 //	GetItem(77);
 
@@ -53448,7 +53448,7 @@ int main()
 	int over;
 	int map;
 	string iname;
-	iname ="Šl“¾w¬“[–ÝxB";
+	iname ="“¾“ž—¹w¬“[–ÝxB";
 	kagu = 4;
 	scr = 0;
 	norcam = 0;
@@ -53457,12 +53457,12 @@ int main()
 	if (ch[420] >= 200 && ch[420] < 400)
 	{
 		kagu = 5;
-		iname ="Šl“¾wIŽ—ÍxB";
+		iname ="“¾“ž—¹wIŽ—ÍxB";
 	}
 	if (ch[420] >= 600 && ch[420] < 700)
 	{
 		kagu = 5;
-		iname ="Šl“¾wIŽ—ÍxB";
+		iname ="“¾“ž—¹wIŽ—ÍxB";
 	}
 	map = ch[420];
 	
@@ -55311,7 +55311,7 @@ int main()
 			{
 				Message(4,"«èC‘l”@Ÿ’ÉG”Vl","”IŠÒ¥","‘æˆê˜¢B","");
 				Message(4,"ˆ×—¹•\²”I’ÉŒ‚èC‘l—H—ì","”‡‰ò‹à§”vA§—ã‹‹”IB","","");
-				Mes("Šl“¾w‹à§”vxB");
+				Mes("“¾“ž—¹w‹à§”vxB");
 				ch[2290] = 2;
 				KaguTest(20022,79);
 				GetItem(79);
@@ -55365,7 +55365,7 @@ int main()
 		{
 			Message(4,"«èC‘l”@Ÿ’ÉG”Vl","”IŠÒ¥","‘æˆê˜¢B","");
 			Message(4,"ˆ×—¹•\²”I’ÉŒ‚èC‘l—H—ì","”‡‰ò‹à§”vA§—ã‹‹”IB","","");
-			Mes("Šl“¾w‹à§”vxB");
+			Mes("“¾“ž—¹w‹à§”vxB");
 			ch[2290] = 2;
 			KaguTest(20022,79);
 			GetItem(79);
