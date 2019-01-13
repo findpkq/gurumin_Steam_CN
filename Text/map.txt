@@ -28667,7 +28667,7 @@ int main()
 					SE(853);
 					KaguTest(10006,0);
 					KaguTest(10007,1);
-					KaguTest2(10008,0,"“¾“•Ç†‡H[î”•‹‰Æ‰€]B");
+					KaguTest2(10008,0,"“¾“•Ç†‡H|î”•‹‰Æ‰€|B");
 					KaguTest2(10008,2,"îm—Ô‰Æ“I¨ãB");
 					KaguTest2(10008,3,"‰ÂˆÈ‘ÖŠ·•Ç†B");
 					KaguTest2(10009,0,"kb009s.bmp");
@@ -30627,7 +30627,7 @@ int main()
 				SE(853);
 				KaguTest(10006,0);
 				KaguTest(10007,1);
-				KaguTest2(10008,0,"“¾“•Ç†‡@u’­–]œNz’Á“I•—ŒivB");
+				KaguTest2(10008,0,"“¾“•Ç†‡@|’­–]œNz’Á“I•—Œi|B");
 				KaguTest2(10008,2,"İîm—Ô‰Æ“I¨ã");
 				KaguTest2(10008,3,"‰ÂˆÈXŠ·•Ç†B");
 				KaguTest2(10009,0,"kb001s.bmp");
@@ -31770,7 +31770,7 @@ int main()
 				SE(853);
 				KaguTest(10006,0);
 				KaguTest(10007,1);
-				KaguTest2(10008,0,"“¾“•Ç†‡Bu­—–Ÿ‰æv");
+				KaguTest2(10008,0,"“¾“•Ç†‡B|­—–Ÿ‰æ|");
 				KaguTest2(10008,2,"İîm—Ô‰Æ“I¨qã");
 				KaguTest2(10008,3,"‰ÂˆÈXŠ·•Ç†");
 				KaguTest2(10009,0,"kb003s.bmp");
@@ -32930,7 +32930,7 @@ int main()
 				SE(853);
 				KaguTest(10006,0);
 				KaguTest(10007,1);
-				KaguTest2(10008,0,"“¾“•Ç†‡AuŒ–éŠğ‹Yv");
+				KaguTest2(10008,0,"“¾“•Ç†‡A|Œ–éŠğ‹Y|");
 				KaguTest2(10008,2,"İîm—Ô‰Æ“I¨qã");
 				KaguTest2(10008,3,"‰ÂˆÈXŠ·•Ç†");
 				KaguTest2(10009,0,"kb002s.bmp");
@@ -63891,7 +63891,7 @@ int main()
 	SE(853);
 	KaguTest(10006,0);
 	KaguTest(10007,1);
-	KaguTest2(10008,0,"“¾“•Ç†‡Cu“»’Ê•—ŠivB");
+	KaguTest2(10008,0,"“¾“•Ç†‡C|“»’Ê•—Ši|B");
 	KaguTest2(10008,2,"İîm—Ô‰Æ“I¨ã");
 	KaguTest2(10008,3,"‰ÂˆÈXŠ·•Ç†B");
 	KaguTest2(10009,0,"kb004s.bmp");
@@ -64464,7 +64464,7 @@ int main()
 		SE(853);
 		KaguTest(10006,0);
 		KaguTest(10007,1);
-		KaguTest2(10008,0,"“¾“•Ç†‡Guæ¨l‘Åá»‡“Iu‹cvB");
+		KaguTest2(10008,0,"“¾“•Ç†‡G|æ¨l‘Åá»‡“Iu‹c|B");
 		KaguTest2(10008,2,"İîm—Ô‰Æ“I¨ã");
 		KaguTest2(10008,3,"‰ÂˆÈXŠ·•Ç†B");
 		KaguTest2(10009,0,"kb008s.bmp");
@@ -64525,7 +64525,6 @@ int main()
 
 // ­—ƒ}ƒ“ƒKg—p
 #Script:01298
-int main()
 int main()
 {
 	KaguTest(10006,0);//”­Œ¾‰Šú‰»
@@ -64716,7 +64715,7 @@ int main()
 		SE(853);
 		KaguTest(10006,0);
 		KaguTest(10007,1);
-		KaguTest2(10008,0,"“¾“•Ç†‡Du—FD“I‘ãvB");
+		KaguTest2(10008,0,"“¾“•Ç†‡D|—FD“I‘ã|B");
 		KaguTest2(10008,2,"İîm—Ô‰Æ“I¨ã");
 		KaguTest2(10008,3,"‰ÂˆÈXŠ·•Ç†B");
 		KaguTest2(10009,0,"kb005s.bmp");
@@ -64789,7 +64788,7 @@ int main()
 		SE(853);
 		KaguTest(10006,0);
 		KaguTest(10007,1);
-		KaguTest2(10008,0,"“¾“•Ç†‡EuŠeíŠe—l“I‘•”õvB");
+		KaguTest2(10008,0,"“¾“•Ç†‡E|ŠeíŠe—l“I‘•”õ|B");
 		KaguTest2(10008,2,"İîm—Ô‰Æ“I¨ã");
 		KaguTest2(10008,3,"‰ÂˆÈXŠ·•Ç†B");
 		KaguTest2(10009,0,"kb006s.bmp");
