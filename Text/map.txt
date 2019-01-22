@@ -34414,7 +34414,7 @@ int main()
 		SelText("ЉЦ•ВA‘±”d•ъ–НЋ®",96);
 	}
 	SelText("оm—ФЃC“oЏкЃI",1);
-	SelText("—^”Ю‘ш“Iз®зђ",2);
+	SelText("—^•Й‘ш“Iз®зђ",2);
 	SelText("ЉJЏкЋ‹•p",3);
 	SelText("”нгW‰Л“I•Ѓћh",4);
 	SelText("“`ђа“Iиs“ЄЃI",5);
