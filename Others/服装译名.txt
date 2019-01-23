@@ -1,0 +1,12 @@
+编制泳装（奉送品）	スク水（おまけ）	Swimsuit
+豹纹装（奉送品）	ひょう（おまけ）	Leopard　Suit
+护士装（奉送品）	ナース（おまけ）	Nurse　Outfit
+工作服（奉送品）	作業着（おまけ）	Work　Uniform
+体操服（奉送品）	体操着（おまけ）	Workout　Gear
+和服				着物に				Kimono
+扮猴装				おさる服			Monkey　Suit
+睡衣				パジャマに			Pajamas
+旗袍				チャイナドレス		Chinese　Dress
+女仆装				ゴスロリに			Maid　Outfit
+制服				制服に				School　Uniform
+普通衣				普段着に			Normal　Clothes
