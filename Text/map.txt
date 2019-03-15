@@ -22120,7 +22120,7 @@ int main()
 					break;
 				case 2: // ‚T‚O‚O‚O‚Ø‚ñ‚Ë
 					Message(19,"–”Q“—¹","ˆ¦H","","");
-					Message(19,"Å‹ß“I‹à§”v","œk—eˆÕQ“","‰¿Ši–ç~—¹B","");
+					Message(19,"Å‹ß“I”’‹à§”v","œk—eˆÕAQ“—¹","‰¿Ši–ç~—¹B","");
 					Message(19,"”‡Ÿ—p‚T‚O‚O‚OisŒğŠ·B","","","");
 					ch[420] = 1;
 					KaguTest(20006,54);
@@ -22128,7 +22128,7 @@ int main()
 					break;
 				case 3: // ‚P‚O‚O‚O‚Ø‚ñ‚Ë
 					Message(19,"–”Q“—¹","ˆ¦H","","");
-					Message(19,"Å‹ß“I‹à§”v","œk—eˆÕ•ÖQ“","‰¿Ši–ç~—¹B","");
+					Message(19,"Å‹ß“I”’‹à§”v","œk—eˆÕAQ“—¹","‰¿Ši–ç~—¹B","");
 					Message(19,"”‡Ÿ—p‚P‚O‚O‚OisŒğŠ·B","","","");
 					ch[420] = 1;
 					KaguTest(20006,54);
@@ -22143,7 +22143,7 @@ int main()
 					SetGP(GetGP() + 500);
 					break;
 				case 5: // ‚P‚O‚O‚Ø‚ñ‚Ë
-					Message(19,"š_š_C–”","Q“—¹ˆ¢H","","");
+					Message(19,"š_š_C","–”Q“—¹ˆ¢H","","");
 					Message(19,"‘´À”’‹à§”v“I‰¿’l","›ßŒoˆê—Ä——¹B","","");
 					Message(19,"œkˆâŠ¶C”‡Ÿ‘ü”\","ŒğŠ·‚P‚O‚O—¹B","","");
 					ch[420] = 1;
@@ -22152,7 +22152,7 @@ int main()
 					break;
 				default: // ‚P‚Ø‚ñ‚Ë
 					Message(19,"”’‹à§”v›ßŒo","–v—Lû‘ ‰¿’l—¹cc","","");
-					Message(19,"’A¥C–ç•sÄæ¨”I”’çîˆêçˆ","AŒğŠ·‚P™ÛB","","");
+					Message(19,"’A¥C–ç•s”\æ¨”I”’çîˆêçˆ","AŒğŠ·‚P™ÛB","","");
 					ch[420] = 1;
 					KaguTest(20006,54);
 					SetGP(GetGP() + 1);
